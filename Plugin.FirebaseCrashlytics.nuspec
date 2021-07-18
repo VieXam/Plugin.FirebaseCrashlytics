@@ -10,7 +10,7 @@
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <projectUrl>https://github.com/VieXam/Plugin.FirebaseCrashlytics</projectUrl>
     <description>Cross platform plugin for Firebase Crashlytics</description>
-    <copyright>Copyright (c) 2021 VieXam</copyright>
+    <copyright>Copyright (c) 2021 VieXam Community</copyright>
     <tags>xamarin, ios, android, xamarin.forms, plugin, firebase, crashlytics</tags>
     <repository url="https://github.com/VieXam/Plugin.FirebaseCrashlytics" />
     <dependencies>
