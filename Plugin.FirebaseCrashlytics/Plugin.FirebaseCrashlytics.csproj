@@ -52,7 +52,7 @@
         <PackageReference Include="Xamarin.Firebase.Measurement.Connector" Version="119.0.0" PrivateAssets="contentFiles;analyzers" />
         <PackageReference Include="Xamarin.Firebase.Iid" Version="121.1.0" PrivateAssets="contentFiles;analyzers" />
         <PackageReference Include="Xamarin.Firebase.Encoders.JSON" Version="118.0.0" PrivateAssets="contentFiles;analyzers" />
-        <PackageReference Include="Xamarin.Firebase.Components" Version="17.0.0" PrivateAssets="contentFiles;analyzers" />
+        <PackageReference Include="Xamarin.Firebase.Components" Version="117.0.0" PrivateAssets="contentFiles;analyzers" />
         <PackageReference Include="Xamarin.Firebase.Common" Version="120.0.0" PrivateAssets="contentFiles;analyzers" />
         <PackageReference Include="Square.OkHttp3" Version="4.9.1" />
         <ProjectReference Include="..\Xamarin.Firebase.Crashlytics\Xamarin.Firebase.Crashlytics.csproj" IncludeAssets="none" />
